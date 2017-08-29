@@ -11,13 +11,16 @@ Install and activate the plugin. That's all.
 # Details
 
 What customers will see when checking out:
+
 ![](http://cld.wthms.co/6AvuM+)
 Image Link: http://cld.wthms.co/6AvuM
 
 What admins and customers will see in emails:
+
 ![](http://cld.wthms.co/WSBCaO+)
 Image Link: http://cld.wthms.co/WSBCaO
 
 What admins will see in orders:
+
 ![](http://cld.wthms.co/hkcweD+)
 Image Link: http://cld.wthms.co/hkcweD 
